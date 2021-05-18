@@ -1,0 +1,9 @@
+thought process:,
+"1) scatter plot the data, look for immediate visual patterns, and plot relationships between the columns",
+,Answer: it's a map!
+"2) North America seems to be the most dense and well-defined, along with Europe - why is that?",
+,"Note: In general, it seems like the data points are related to population, or at least ""developed"" population"
+,"Note: Some repeated data points, particularly at the front end of the dataset"
+3) Could it be a map of the largest cities in the world? That doesn't make sense with the data repeats though…I should check where the repeats are located,
+,Note: There is one data point in SE Asia repeated 100 times in the first 129 entries
+,"Note: Other than that, no obvious pattern…"
